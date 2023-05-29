@@ -1,0 +1,15 @@
+{
+  "screen": {
+    "color": "white",
+    "width": 1280,
+    "heights": 720
+  },
+  "edge": {
+    "color": "red2",
+    "speed": "5"
+          },
+  "segment": {
+    "tri_color": "blue",
+    "lin_color": "green"
+  }
+}
